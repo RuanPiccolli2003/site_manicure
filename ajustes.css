@@ -1,0 +1,66 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+
+
+header,.card-text,.card-title,.container,#carde{
+    font-family: 'Dancing Script';
+
+}
+
+input,textarea,select{
+    border-radius: 50px;
+}
+
+#aj,button{
+    font-family: 'Dancing Script';
+
+}
+
+#texto,p{
+    font-family: arial;
+}
+
+#bru{
+    background-image: url;
+}
+
+#menu:hover{
+    transition: 0.5s;
+    transform: scale(1.1);
+    background-color: rgb(202, 132, 193);
+    border-radius: 50ex;
+    
+}
+
+#menu:not(:hover){
+    transition: 0.5s;
+    border-radius: 50ex;
+}
+
+.bg-image {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+}
+
+#jumbo{
+    font-weight: 400;
+    font-size: 50px;
+    font-family: 'Dancing Script';
+   
+}
+
+#caro1{
+    font-size: 80px;
+    color: rgb(46, 15, 15);
+    text-align: center;
+}
+
+footer{
+    background-color: rgb(143, 116, 168);
+}
+
+#ruan{
+    border-radius: 50px;
+}
